@@ -1,7 +1,8 @@
 {
   "name": "grid-interview-problem",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "http://KirillOFF.github.io/grid-interview-problem",
   "dependencies": {
     "@mui/icons-material": "^5.0.3",
     "@mui/material": "^5.0.3",
@@ -14,6 +15,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "gh-pages": "^3.2.3",
     "mobx": "^6.3.3",
     "mobx-react-lite": "^3.2.1",
     "react": "^17.0.2",
@@ -31,7 +33,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

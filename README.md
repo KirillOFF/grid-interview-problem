@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+http://KirillOFF.github.io/grid-interview-problem
+
 ## Available Scripts
 
 In the project directory, you can run:
