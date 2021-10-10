@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/grid-interview-problem/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/grid-interview-problem/static/js/main.7708dd77.chunk.js",
+    "main.js.map": "/grid-interview-problem/static/js/main.7708dd77.chunk.js.map",
+    "runtime-main.js": "/grid-interview-problem/static/js/runtime-main.dfdc23a1.js",
+    "runtime-main.js.map": "/grid-interview-problem/static/js/runtime-main.dfdc23a1.js.map",
+    "static/js/2.68a2879e.chunk.js": "/grid-interview-problem/static/js/2.68a2879e.chunk.js",
+    "static/js/2.68a2879e.chunk.js.map": "/grid-interview-problem/static/js/2.68a2879e.chunk.js.map",
+    "static/js/3.bc7c68e1.chunk.js": "/grid-interview-problem/static/js/3.bc7c68e1.chunk.js",
+    "static/js/3.bc7c68e1.chunk.js.map": "/grid-interview-problem/static/js/3.bc7c68e1.chunk.js.map",
+    "index.html": "/grid-interview-problem/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/grid-interview-problem/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.68a2879e.chunk.js.LICENSE.txt": "/grid-interview-problem/static/js/2.68a2879e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfdc23a1.js",
+    "static/js/2.68a2879e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7708dd77.chunk.js"
+  ]
+}
