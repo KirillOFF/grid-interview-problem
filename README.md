@@ -1,22 +1,15 @@
 # Grid Interview Problem
 
-## Technical Requirements
-[grid-interview-problem.pdf](grid-interview-problem.pdf)
-
-
 ## Demo
 http://KirillOFF.github.io/grid-interview-problem
 
+## Technical Requirements
 
-# Grid Interview Problem
-
-Grid Interview Problem 
-
-Problem Brief 
+### Problem Brief 
 
 Create an app that renders a grid of 0s and 1s, and allows you to count the number of continuous blocks of 1s. 
 
-In Depth 
+### In Depth 
 
 1. Create a two-dimensional array (a grid) in Javascript of 1s and 0s, for example. 
 
@@ -48,4 +41,5 @@ Additional extras:
 
 \- Make it look nice 
 
+[grid-interview-problem.pdf](grid-interview-problem.pdf)
 
